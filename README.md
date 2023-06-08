@@ -15,12 +15,12 @@ Create a account on huggingface https://huggingface.co/login
 All the requirment are define in requirment.text file.
 
 ### How to run
-Open the huggingface after login.
-Go to the space button and then create new space.
-For creating new space enter the name of space as you want, then select "Gradio" from select the space sdk. Then make your space public or private as you want.
-After that click the create space.
-Then upload all the above file in your space.
-Then you can see your application by clicking the app button.
+Open the huggingface after login.<br/>
+Go to the space button and then create new space.<br/>
+For creating new space enter the name of space as you want, then select "Gradio" from select the space sdk. Then make your space public or private as you want.<br/>
+After that click the create space.<br/>
+Then upload all the above file in your space.<br/>
+Then you can see your application by clicking the app button.<br/>
 ### How to use app
 In left side enter your open API Key.
 Upload you source data in pdf format.
